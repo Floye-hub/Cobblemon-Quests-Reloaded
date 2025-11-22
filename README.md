@@ -1,48 +1,86 @@
-# Cobblemon Quests
+Cobblemon Quests Reloaded
+Cobblemon Quests Reloaded is an unofficial, community-maintained fork of the original Cobblemon Quests mod.
+This project updates and improves the mod for newer Minecraft, Cobblemon, and FTB Quests versions while keeping the original purpose intact: enabling quest creators to build Cobblemon-related quests directly inside FTB Quests.
 
-The Cobblemon Quests mod allows you to create quests in FTB Quests where the tasks can be to catch, defeat, kill, level
-up, evolve and plenty more with Pokémon.
+The mod provides quest tasks for many Cobblemon actions, including:
 
-## Downloads
+Catching Pokémon
 
-The mod can be downloaded on either Modrinth or Curseforge \
-Modrinth: https://modrinth.com/mod/cobblemon-quests \
-Curseforge: https://www.curseforge.com/minecraft/mc-mods/cobblemon-quests
+Defeating Pokémon
 
-## FAQ:
+KO’ing wild Pokémon
 
-Q: Do I need to install this on both server and client?\
-A: Yes.
+Leveling up
 
-Q: No quests are showing up in the quest book. What do I do?\
-A: This mod does not add any quests by itself. It allows quest creators to create cobblemon related quests.
+Evolving Pokémon
 
-## Usage
+And much more…
 
-For players:\
-Just play the game as you normally would and look at the quests you have. It should be fairly self-explanatory.
+Just like the original mod, this fork:
+➡️ does not add any quests by itself,
+➡️ but provides the tools for creators and modpacks to design their own questlines.
 
-[For quest creators](quest-creation.md)
+Features
+Updated compatibility with recent Minecraft, Cobblemon, and FTB Quests versions
 
-## Source Code
+Bug fixes and stability improvements
 
-The source code can be found on [GitHub](https://github.com/WinterWolfSV/Cobblemon_Quests) under the CC-BY-NC 4.0
-License. More information about the license can be found under the [License](#license) section.
+Updated or expanded Cobblemon quest triggers
 
-## License
+Better behavior and integration with modern Cobblemon APIs
 
-The Cobblemon Quests mod is released under the CC-BY-NC-4.0 License. This license allows you to use, modify, and
-distribute the mod for non-commercial purposes, as long as you credit the original author and include a copy of the
-license in any redistributed versions.
+(“Optional”) Add your specific changes here, if you want the description to reflect your fork’s improvements
 
-## Feature requests
+For Players
+Simply install this mod on both client and server.
+If the modpack or server includes Cobblemon-related quests, they will automatically appear in your quest book.
 
-The best way to request a feature is to contact me directly over discord (winterwolfsv). Otherwise, in lack of a discord
-account, GitHub issues can be used to request features as well.
+For Quest Creators
+Cobblemon Quests Reloaded provides new task types for FTB Quests, allowing you to design questlines involving Cobblemon interactions such as:
 
-## Bugs and Feedback
+Capturing
 
-Bug reports can be submitted either through the [GitHub Issues](https://github.com/WinterWolfSV/Cobblemon_Quests/issues)
-page of the Cobblemon Quests mod repository or by contacting me personally over Discord (winterwolfsv). Please provide
-as much information as possible, including steps to reproduce the issue, error messages, and any relevant screenshots or
-log files. Your feedback is greatly appreciated and will help improve the mod for all users.
+Defeating
+
+KO actions
+
+Evolution events
+
+Level/XP progression
+
+Other Cobblemon events usable in quest triggers
+
+This fork aims to keep the functionality up to date with modern mod versions.
+
+FAQ
+Q: Do I need to install this on both client and server?
+Yes. The mod must be present on both sides.
+
+Q: Why don’t I see any quests in my quest book?
+The mod adds no quests by default. Quest creators or modpacks must add them manually.
+
+Q: Is this fork official?
+No. This is an unofficial community continuation.
+
+Attribution & License (required — CC BY-NC 4.0)
+This project is an unofficial fork of the original Cobblemon Quests created by winterwolfsv.
+The original project is licensed under the Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0) License.
+
+In accordance with this license:
+
+Full credit goes to the original author.
+
+This fork is entirely non-commercial.
+
+A copy of the CC BY-NC 4.0 license is included.
+
+All modifications are clearly stated through this continuation project.
+
+(You can add a link to the original project here if you want.)
+
+
+Bug Reports & Suggestions
+If you encounter issues or want to suggest improvements, please use Github issues
+
+or discord :
+https://discord.gg/MVZ4EWrj2k
