@@ -74,8 +74,6 @@ In accordance with this license:
 - ✅ A copy of the CC BY-NC 4.0 license is included  
 - ✅ All modifications are clearly stated  
 
-*(You may add a link to the original project here)*  
-
 ---
 
 ## 🐛 Bug Reports & Suggestions
