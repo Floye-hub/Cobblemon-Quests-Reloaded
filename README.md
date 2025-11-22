@@ -25,8 +25,7 @@ Like the original mod:
 - Updated compatibility with recent Minecraft, Cobblemon, and FTB Quests versions  
 - Bug fixes and stability improvements  
 - Updated or expanded Cobblemon quest triggers  
-- Better behavior and integration with modern Cobblemon APIs  
-- *(Optional)* Add your specific changes here  
+- integration with new Cobblemon APIs   
 
 ---
 
